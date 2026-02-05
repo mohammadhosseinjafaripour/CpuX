@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "116876393689",
+    "firebase_url": "https://cpux-88685.firebaseio.com",
+    "project_id": "cpux-88685",
+    "storage_bucket": "cpux-88685.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116876393689:android:d7a773da51f895fb",
+        "android_client_info": {
+          "package_name": "com.cpux"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116876393689-hv0gq7e6o8j1ahpsrppbgk0fparbmls8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cpux",
+            "certificate_hash": "26B9E1FCBD86FDA6E246A3976AECC9030C6E341F"
+          }
+        },
+        {
+          "client_id": "116876393689-rmg99miv0hmi4ultkeea5g0fo4pri1op.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnvHwfSgxrsMml4N9qagSO3lMqppNaaew"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116876393689-rmg99miv0hmi4ultkeea5g0fo4pri1op.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
