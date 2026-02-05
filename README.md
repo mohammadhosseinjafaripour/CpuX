@@ -21,6 +21,14 @@ CPU-X is an Android app that displays detailed device information in a simple, t
 | Battery | Level, health, status, temp, voltage | Uses system battery broadcast |
 | Sensors | Hardware support list (GPS, NFC, gyro, etc.) | Based on device capabilities |
 
+## Screenshots 🖼️
+![CPU-X screenshot 1](Market-logo/1-0.png)
+![CPU-X screenshot 2](Market-logo/1-1.png)
+![CPU-X screenshot 3](Market-logo/2-1.png)
+![CPU-X screenshot 4](Market-logo/3-1.png)
+![CPU-X screenshot 5](Market-logo/4-1.png)
+![CPU-X screenshot 6](Market-logo/5-1.png)
+
 ## Tech stack 🛠️
 - Android (Java)
 - Android Support Libraries
